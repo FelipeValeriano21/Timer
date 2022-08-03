@@ -1,0 +1,61 @@
+main, header{
+
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+
+.numeros{
+
+    font-size: 50px;
+    margin-top: 150px;
+    background-color: black;
+    color: white;
+    padding: 25px;
+}
+
+body{
+
+    background-image: linear-gradient(to right, rgb(58, 26, 70) , rgb(1, 78, 52));
+
+}
+
+h1{
+
+font-family:cursive;
+color: white;
+font-size: 100px;
+
+
+}
+
+.botao{
+
+margin-top: 50px;
+padding: 25px;
+font-size: 25px;
+
+}
+
+#play{
+
+background-color: green;
+color: white;
+
+}
+
+#restart{
+
+    background-color: rgb(125, 125, 125);
+    color: white;
+    
+}
+
+#stop{
+
+    background-color: rgb(179, 0, 0);
+    color: white;
+
+}
